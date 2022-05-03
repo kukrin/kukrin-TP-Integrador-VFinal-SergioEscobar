@@ -1,0 +1,29 @@
+#logo {
+    height: 60px;
+}
+
+.fondo-ba1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/ba1.jpg");
+    height: 100vh;
+}
+
+#alinear {
+    padding-top: 200px;
+    padding-right: 80px;
+}
+
+#alinearBoton {
+    margin-right: 80px;
+}
+.bg-footer{
+    height: auto;
+    background: rgb(5,38,78);
+    background: linear-gradient(47deg, rgb(6 31 62 / 94%) 50%, rgb(8 62 100 / 93%) 80%);
+  }
+  .bg-lugar{
+    background-image: url('../img/honolulu.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+  }
